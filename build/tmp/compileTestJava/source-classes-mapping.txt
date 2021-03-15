@@ -1,0 +1,2 @@
+com/cg/sprintexample/Task1Test.java
+ com.cg.sprintexample.Task1Test
